@@ -4,3 +4,4 @@ rsa==3.0
 feedparser==5.1.1
 requests==2.2.1
 pycrypto==2.4
+tlslite==0.4.8
