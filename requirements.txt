@@ -3,4 +3,5 @@ PyJWT==0.4.2
 rsa==3.4
 requests==2.2.1
 feedparser==5.1.1
-pycrypto==2.4
+pycryptodome==3.9
+raven==1.9.4
